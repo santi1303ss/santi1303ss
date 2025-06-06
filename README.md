@@ -85,8 +85,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupiter logo"/>
   <img width="12" />
 </div>
-###
 
 ![snake gif](https://github.com/santi1303ss/santi1303ss/blob/main/grid-snake-dark.svg)
 
-###
