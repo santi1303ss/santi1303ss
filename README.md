@@ -87,6 +87,6 @@
 </div>
 ###
 
-![snake gif](faltante.gif)
+![snake gif](https://github.com/santi1303ss/santi1303ss/blob/main/grid-snake-dark.svg)
 
 ###
