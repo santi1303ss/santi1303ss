@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Learning to solve errors since 2020<br>📚 I am currently learning C#, GO, advanced SQL Server<br>🎯 Goals: Become a stronger fullstack developer, build scalable applications, and learn more about software architecture</p>
+<p align="left">✨ Learning to solve errors since 2020<br>📚 I am currently studying software engineering <br>🎯 Goals: Become a stronger full-stack developer, build scalable applications, and learn more about software architecture</p>
 
 ###
 
